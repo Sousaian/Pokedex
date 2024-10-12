@@ -6,7 +6,6 @@ Bem-vindo à **Pokedex**! Este projeto é uma aplicação que permite visualizar
 
 - **Listagem de Pokémon:** Navegue por uma lista abrangente de Pokémon.
 - **Detalhes do Pokémon:** Clique em qualquer Pokémon para visualizar suas informações detalhadas, incluindo tipos e estatísticas.
-- **Busca:** Encontre rapidamente Pokémon específicos usando a barra de pesquisa.
 
 ## 🛠️ Tecnologias Utilizadas
 
